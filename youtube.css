@@ -1,0 +1,15 @@
+.img-tile {
+    border-bottom-left-radius: 5px ;
+    border-bottom-right-radius: 10px ;
+}
+.tagline, .card-subtitle {
+    font-size: 15px;
+}
+.card-desc a {
+    text-decoration: none;
+    color: black;
+}
+.channel-img img {
+    width: 20px;
+    border-radius: 50%;
+}
